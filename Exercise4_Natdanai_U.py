@@ -1,7 +1,7 @@
 FE = 85 #Foundation English
-GB = 95.5
-ITCS = 75.20
-CP = 65.70
+GB = 95.5 #General Business
+ITCS = 75.20 #Introduction to Computer Systems
+CP = 65.70 #Computer Programming
 
 print("--- Your Score ---")
 
